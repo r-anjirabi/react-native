@@ -200,7 +200,7 @@
     "eslint-plugin-flowtype": "^2.20.0",
     "eslint-plugin-react": "^6.4.1",
     "flow-bin": "^0.38.0",
-    "jest": "18.0.0",
+    "jest": "18.0.0", 
     "jest-repl": "18.0.0",
     "jest-runtime": "18.0.0",
     "mock-fs": "^3.11.0",
